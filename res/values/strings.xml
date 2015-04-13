@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dropbox_Mobiquity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Login">Login with Dropbox</string>
+    <string name="Camera">Take Photo</string>
+    <string name="Upload">Upload photo</string>
+    <string name="list">List the photos</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_view_image">ViewImageActivity</string>
+    <string name="APP_KEY">lozx5cn70lwu2yd</string>
+    <string name="APP_SECRET">nolr1uooyddcaq0</string>
+
+</resources>
